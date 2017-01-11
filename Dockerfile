@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Nakul
+MAINTAINER Dockerfile
 
 # Update packages
 RUN apt-get update -y

@@ -28,7 +28,9 @@ eg: sudo docker build -t django_image.
 
 
 4.Run a docker container with this image, By running this the app will be live.
+
    ``` sudo docker run -d --name [container_name] -i [image_name] ```
+   
 eg:``` sudo docker run -d --name Django -i django_image ```
 
 
